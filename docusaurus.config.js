@@ -6,9 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  title: "Damar's Personal Wiki",
+  tagline: 'Belajar dan berbagi.',
+  favicon: 'https://github.com/Indra2108.png',
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-test-site.com',
@@ -60,11 +60,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
-        logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
-        },
+        title: "Damar's Personal Wiki",
         items: [
           {
             type: 'docSidebar',
@@ -73,16 +69,7 @@ const config = {
             label: 'Tutorial',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
         ],
-      },
-      footer: {
-        style: 'dark',
-        copyright: `Copyright © ${new Date().getFullYear()} Indra Damar Jati - Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
