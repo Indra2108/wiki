@@ -9,7 +9,7 @@ git clone https://github.com/Indra2108/wiki.git
 npm install
 npm start
 ```
-If you want to build this project
+If you want to build this project, the build result will go to `build/` folder
 ```
 npm run build
 ```
