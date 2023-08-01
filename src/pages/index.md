@@ -1,13 +1,11 @@
 ---
 title: Home
----
+--- 
 
-# Hi there! I'm Damar.
+# Personal Wiki.
 
-I am a Software Developer who specializes in Mobile Development based in Yogyakarta, Indonesia.
+This is my personal wiki. still work in progress. for source code, see here: https://github.com/Indra2108/wiki
 
-I wrote my first line of code when I was still in vocational high school. I learned to write Batch Scripts in Windows.
+Build with [Docusaurus](https://docusaurus.io/), and hosted on [leprd.space](https://leprd.space/).
 
-Currently, I'm studying and mentoring at Pesantren IT, an informal education in Yogyakarta that focuses on IT skill development and Islamic education. There, I am entrusted to be a React Native Mentor, responsible for guiding santri in building mobile applications, specifically for Android.
-
-Besides coding, another thing I enjoy is writing. I love jotting down my thoughts and ideas in physical journals, like books, or digital platforms such as knowledge bases or blogs. Check out my blog site [here](https://indra.hashnode.dev).
+Visit my main website if you want, [here](https://indrdmr.web.app) .
