@@ -11,7 +11,7 @@ const config = {
   favicon: 'https://github.com/Indra2108.png',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://indrdmr.haliya.net',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -40,11 +40,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
         },
-        blog: {
-          showReadingTime: false,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-        },
+        blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -66,11 +62,10 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'wikiSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Main Wiki',
           },
-          { to: '/blog', label: 'Blog', position: 'left' },
         ],
       },
       prism: {
