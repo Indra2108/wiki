@@ -3,8 +3,13 @@ slug: /personal-sites
 title: List of Personal Sites
 ---
 
+Tips: If the site goes something unexpected, go to [Wayback Machine](https://archive.org/web/).
+
+HELP me to describe these sites, feel free to open [pull request](https://github.com/Indra2108/wiki/pulls).
+
 | sites | descriptions |
 |-------|--------------|
+| [mxb.dev](https://mxb.dev/) | | 
 | [mary.rs](https://mary.rs/) | Simple personal website by Mary. |
 | [joesalinas.dev](https://joesalinas.dev/) |  |
 | [caramiki.com](https://caramiki.com/) | Clock-themed site by Cara Michele Ryan. |
@@ -98,3 +103,4 @@ title: List of Personal Sites
 | [ritualdust.com](https://ritualdust.com/) | | 
 | [sadgrl.online](https://sadgrl.online/) | |
 | [koshka.love](https://koshka.love/) | |
+| [worrydream.com](http://worrydream.com/) | |
