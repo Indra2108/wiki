@@ -99,8 +99,10 @@ HELP me to describe these sites, feel free to open [pull request](https://github
 | [plusjade.com](http://plusjade.com/) | |
 | [alvar.dev](https://www.alvar.dev/) | |
 | [sobolevn.me](https://sobolevn.me/) | |
-| [dimden.dev](https://dimden.dev/) | |
-| [ritualdust.com](https://ritualdust.com/) | | 
-| [sadgrl.online](https://sadgrl.online/) | |
-| [koshka.love](https://koshka.love/) | |
 | [worrydream.com](http://worrydream.com/) | |
+| [ntietz.com](https://ntietz.com/) | |
+| [nichoth.com](https://nichoth.com/) | |
+| [xeiaso.net](https://xeiaso.net/) | |
+| [yoko.dev](https://yoko.dev/) | |
+| [heather-buchel.com](https://heather-buchel.com/) | |
+| [onehorse.town](https://onehorse.town/) | |
