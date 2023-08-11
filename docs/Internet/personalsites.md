@@ -29,7 +29,6 @@ HELP me to describe these sites, feel free to open [pull request](https://github
 | [uonai.space](https://uonai.space/) |  |
 | [nathanwentworth.co](https://nathanwentworth.co/) | Content-rich site by Nathan Wentworth |
 | [patrikarvidsson.com](https://patrikarvidsson.com/) | |
-| [art.teleportacia.org](https://art.teleportacia.org/) | |
 | [kor.nz](https://kor.nz/) |  |
 | [azlen.me](https://azlen.me/) |  |
 | [mdbenning.neocities.org](https://mdbenning.neocities.org/) | |
