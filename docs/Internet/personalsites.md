@@ -106,3 +106,6 @@ HELP me to describe these sites, feel free to open [pull request](https://github
 | [yoko.dev](https://yoko.dev/) | |
 | [heather-buchel.com](https://heather-buchel.com/) | |
 | [onehorse.town](https://onehorse.town/) | |
+| [catgirl.sh](https://catgirl.sh/) | |
+| [viniciusl.com.br](https://viniciusl.com.br/) | |
+| [kopiro.me](https://www.kopiro.me/) | |
