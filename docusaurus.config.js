@@ -56,7 +56,7 @@ const config = {
         defaultMode: 'dark',
         disableSwitch: true,
       },
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'https://github.com/Indra2108.png',
       navbar: {
         title: "Damar's Personal Wiki",
         items: [
