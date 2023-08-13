@@ -1,8 +1,6 @@
 # Wiki
 This is my personal wiki. build with Docusaurus.
 
-Live: https://indrdmr.haliya.net
-
 ## How to Run/Build
 ```
 git clone https://github.com/Indra2108/wiki.git
